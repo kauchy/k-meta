@@ -2,7 +2,7 @@
   "name": "K02 Stock",
   "symbol": "K02",
   "description": "K02 Stock test",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/k02.png",
+  "image": "https://raw.githubusercontent.com/kauchy/k-meta/main/k02.png",
   "attributes": [
     {
       "trait_type": "Item",
