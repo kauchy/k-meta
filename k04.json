@@ -1,0 +1,12 @@
+{
+  "name": "K04 Stock",
+  "symbol": "K04",
+  "description": "K04 Stock test",
+  "image": "https://raw.githubusercontent.com/kauchy/k-meta/main/k04.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ]
+}
