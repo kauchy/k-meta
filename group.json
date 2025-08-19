@@ -1,0 +1,12 @@
+{
+  "name": "vStock Group",
+  "symbol": "vGroup",
+  "description": "vStock Group,Just Token group",
+  "image": "https://raw.githubusercontent.com/kauchy/k-meta/main/group.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ]
+}
